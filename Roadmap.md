@@ -10,6 +10,8 @@
 
 Результаты итерации зафиксированы в [Iterations/001.md](Iterations/001.md).
 
+Рабочий документ этапа: [Existing_Solutions.md](Existing_Solutions.md).
+
 Цель этапа:
 
 - проверить существующую документацию на соответствие Definition.md;
