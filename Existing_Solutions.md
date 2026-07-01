@@ -47,6 +47,14 @@
 
 ---
 
+## Research Logs
+
+Завершенные промежуточные результаты исследования:
+
+- [Research Log 001](Research/Research_Log_001.md) — первый обзор технологий и проектов, зафиксировавший переход от поиска технологий к исследованию функций ViktorOS.
+
+---
+
 ## Research Categories
 
 | Category | Purpose | Status |
